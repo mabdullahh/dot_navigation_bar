@@ -81,7 +81,7 @@ class Body extends StatelessWidget {
                       child: SizedBox(
                         height: 40,
                         child: Align(
-                          alignment: Alignment.bottomCenter,
+                          alignment: Alignment.topCenter,
                           widthFactor: t,
                           child: Padding(
                             padding: EdgeInsets.only(
